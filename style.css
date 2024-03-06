@@ -1,0 +1,36 @@
+/* Estilos para Div A */
+.divA {
+    background-color: #6495ED; /* Cornflower Blue */
+    width: 500px;
+    height: 500px;
+}
+
+/* Estilos para Div B */
+.divB {
+    background-color: #8FBC8F; /* Dark Sea Green */
+    height: 50%;
+    width: 50%;
+}
+
+/* Estilos para Parágrafo C */
+.divB p {
+    color: white;
+    background-color: #FF4500; /* Orange Red */
+    font-size: 25px;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
+
+/* Estilos para Div D */
+.divD {
+    background-color: #FFD700; /* Gold */
+    width: 50%;
+    height: 50vh; /* 50% da viewport height */
+}
+
+/* Estilos para Div E */
+.divE {
+    background-color: #008080; /* Teal */
+    width: 75vw; /* 75% da viewport width */
+    height: 50%;
+}
